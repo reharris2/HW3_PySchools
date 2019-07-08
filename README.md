@@ -1,6 +1,8 @@
 # HW3_PySchools
 ## Observations
 
-Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success.  Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
-
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt too discover some trick for finding success.  I have been tasked with organizing and analyzing a database of 4,000 past projects in order to uncover any hidden trends.
+- Per Student Budgets are not an indicator of student success.  In fact, as budgets per student increased, passing rates of students 
+  decreased.
+- Enrollment sizes larger than 2000 students is an indicator that a school my underperform.
+- What Data is Missing?
+  - The five top performing schools are charter schools.  The five bottom performing schools are district schools.  Data on parental        involvement/action is not included.  In order to gain enrollment in a charter school, a parent has to apply for the lottery or take some action/research.  To me, this would indicate that education is a priority to the parent.  In addition, no data is provided on expulsion rates.  Charter schools can expel problem/underperforming students while district schools have to deal with students unless they violate a major school policy.  Some charter schools do a masterful job educating children from lower socioeconomic backgrounds; however, the data between the school types may not be comparable. 
